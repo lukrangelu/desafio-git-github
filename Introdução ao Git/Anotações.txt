@@ -1,0 +1,1 @@
+Git Bash Terminal de acesso máquina física e servidor git
